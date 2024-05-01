@@ -31,15 +31,14 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Cognitive Sementic Search",
     description:
       "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+    url: "https://learn.microsoft.com/en-us/azure/ai-service/openai/tutorials/embeddings?tabs=mython-new%2Ccommand-line&pivot=programming-language-python",
   },
   {
-    title: "Web Development for Beginners",
-    description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
+    title: "Vector Embeddings",
+    description: "Linking meaningful content and ideas",
     url: "https://github.com/microsoft/web-dev-for-beginners",
   },
   {
